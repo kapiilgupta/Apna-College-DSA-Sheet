@@ -8,4 +8,6 @@ Problems are stored in numbered folders. Each problem folder contains:
 
 ## Problems
 
+- **01 - Can Make Arithmetic Progression From Sequence** — [LeetCode 1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - **02 - Find the Pivot Integer** — [LeetCode 2485](https://leetcode.com/problems/find-the-pivot-integer/)
+- **03 - Palindrome Number** — [LeetCode 9](https://leetcode.com/problems/palindrome-number/)
